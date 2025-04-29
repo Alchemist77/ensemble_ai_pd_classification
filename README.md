@@ -32,6 +32,7 @@ Place your dataset .xlsx file in the dataset/ directory.
 Example: dataset/DATA_HC_PD_total.xlsx (After publish, we will upload this dataset)
 
 ## Run Training and Testing
+
     ```bash
     python3 train_test_avg.py
     ```
