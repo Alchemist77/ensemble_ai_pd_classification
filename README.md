@@ -17,7 +17,7 @@ A Deep Learning framework for Parkinson’s Disease detection based on upper and
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Alchemist77/PD-Ensemble-Classification.git
+    git clone https://github.com/Alchemist77/ensemble_pd_classification.git
     cd PD-Ensemble-Classification
     ```
 2. Install Python packages:
