@@ -33,9 +33,9 @@ Example: dataset/DATA_HC_PD_total.xlsx (After publish, we will upload this datas
 
 ## Run Training and Testing
 
-    ```bash
+     ```bash
     python3 train_test_avg.py
-    ```
+     ```
 
 ## References
 This work is based on the paper:
