@@ -19,7 +19,7 @@ A Deep Learning framework for Parkinson’s Disease detection based on upper and
    ```bash
    git clone https://github.com/Alchemist77/PD-Ensemble-Classification.git
    cd PD-Ensemble-Classification
-
+   ```
 2. Install Python packages:
    ```bash
   pip install -r requirements.txt
