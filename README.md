@@ -35,7 +35,7 @@ Example: dataset/DATA_HC_PD_total.xlsx (After publish, we will upload this datas
     ```bash
     python3 train_test_avg.py
     ```
-References
+## References
 This work is based on the paper:
 Kim, J., Fiorini, L., Maremmani, C., Cavallo, F., Rovini, E. (2025)
 "PD-Ensemble Deep Learning Classification model for Parkinson’s Disease detection based on body motion analysis."
