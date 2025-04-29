@@ -21,9 +21,10 @@ A Deep Learning framework for Parkinson’s Disease detection based on upper and
    cd PD-Ensemble-Classification
    ```
 2. Install Python packages:
-   ```bash
+      ```bash
   pip install -r requirements.txt
    ```
+
 
 ## Dataset Preparation
 Place your dataset .xlsx file in the dataset/ directory.
